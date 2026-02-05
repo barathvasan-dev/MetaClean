@@ -234,14 +234,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ---
 
-## 📞 Support
-
-- 🐛 **Found a bug?** [Open an issue](https://github.com/barathvasan-dev/MetaClean/issues/new?template=bug_report.md)
-- 💡 **Feature request?** [Start a discussion](https://github.com/barathvasan-dev/MetaClean/discussions/new?category=ideas)
-- 📧 **Email**: [support@metaclean.app](mailto:support@metaclean.app)
-
----
-
 <div align="center">
 
 ### 🌟 If MetaClean helps you, consider giving it a star!
