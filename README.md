@@ -75,9 +75,13 @@ Choose what to remove:
 
 <div align="center">
 
-| Home Screen | Clean Screen | Settings |
-|-------------|--------------|----------|
-| ![Home](screenshots/home.png) | ![Clean](screenshots/clean.png) | ![Settings](screenshots/settings.png) |
+| Home Screen | Clean Screen | Presets |
+|-------------|--------------|---------|
+| ![Home](screenshots/home.jpg) | ![Clean](screenshots/clean.jpg) | ![Presets](screenshots/presets.jpg) |
+
+| History | Settings |
+|---------|----------|
+| ![History](screenshots/history.jpg) | ![Settings](screenshots/settings.jpg) |
 
 </div>
 
