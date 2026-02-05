@@ -26,10 +26,13 @@ misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
-# Keystore files
+# Keystore files - SECURITY CRITICAL
 *.jks
 *.keystore
 !debug.keystore
+.android-signing.jks
+KEYSTORE_INFO.txt
+MetaClean-v*.apk
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json

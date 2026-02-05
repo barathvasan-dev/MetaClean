@@ -20,6 +20,15 @@ android {
         }
     }
 
+    signingConfigs {
+        create("release") {
+            storeFile = file("${rootProject.projectDir}/.android-signing.jks")
+            storePassword = "Mc#2026@Secure!8xK9pL"
+            keyAlias = "release_key_2026"
+            keyPassword = "Mc#2026@Secure!8xK9pL"
+        }
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = true
@@ -27,6 +36,7 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            signingConfig = signingConfigs.getByName("release")
         }
     }
     compileOptions {
