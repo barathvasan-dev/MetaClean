@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MetaClean</string>
+    
+    <!-- Feature Descriptions -->
+    <string name="offline_guarantee">100% Offline - No data leaves your device</string>
+    <string name="remove_all_metadata">Remove All Metadata</string>
+    <string name="remove_gps_only">Remove GPS Only</string>
+    <string name="batch_processing">Batch Processing</string>
+    
+    <!-- Cleaning Presets -->
+    <string name="preset_instagram">Instagram Safe</string>
+    <string name="preset_anonymous">Anonymous</string>
+    <string name="preset_professional">Professional Photographer</string>
+    <string name="preset_gps_only">Remove GPS Only</string>
+    <string name="preset_custom">Custom</string>
+    
+    <!-- Settings -->
+    <string name="settings_app_lock">App Lock</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_save_as_copy">Save as Copy</string>
+    
+    <!-- Messages -->
+    <string name="cleaning_complete">Metadata cleaned successfully</string>
+    <string name="cleaning_failed">Failed to clean metadata</string>
+    <string name="no_images_selected">No images selected</string>
+    <string name="permission_required">Storage permission required</string>
+    
+    <!-- Security -->
+    <string name="unlock_app">Unlock MetaClean</string>
+    <string name="biometric_prompt">Use biometric or device credential to unlock</string>
+</resources>
