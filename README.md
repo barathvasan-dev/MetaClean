@@ -74,15 +74,16 @@ Choose what to remove:
 
 <div align="center">
 
-| Main Interface | Permissions | Settings |
-|----------------|-------------|----------|
-| ![Main](screenshots/main%20page%20quick%20action%2C%20api%20and%20ai%20model%20selection.jpeg) | ![Permissions](screenshots/main%20page%20permission%20accessibility%2C%20display%20over%20app%20and%20microphone%20access.jpeg) | ![Settings](screenshots/setting%20with%20language%20option%20auto%20translation.jpeg) |
+| Home Screen | Clean Screen | Presets |
+|-------------|--------------|---------|
+| ![Home](screenshots/home.jpg) | ![Clean](screenshots/clean.jpg) | ![Presets](screenshots/presets.jpg) |
 
-| Custom Trigger | Advanced Settings |
-|----------------|-------------------|
-| ![Custom Trigger](screenshots/custom%20trigger%20word.jpeg) | ![Advanced Settings](screenshots/settings%20tigger%20settings%2Ccustom%20trigger%20word.jpeg) |
+| History | Settings |
+|---------|----------|
+| ![History](screenshots/history.jpg) | ![Settings](screenshots/settings.jpg) |
 
 </div>
+
 
 ---
 
