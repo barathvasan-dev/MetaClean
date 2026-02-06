@@ -74,13 +74,11 @@ Choose what to remove:
 
 <div align="center">
 
-| Home Screen | Clean Screen | Presets |
-|-------------|--------------|---------|
-| ![Home](screenshots/home.jpg) | ![Clean](screenshots/clean.jpg) | ![Presets](screenshots/presets.jpg) |
+<img src="screenshots/home.jpg" width="250" alt="Home Screen"> <img src="screenshots/clean.jpg" width="250" alt="Clean Screen"> <img src="screenshots/presets.jpg" width="250" alt="Presets">
 
-| History | Settings |
-|---------|----------|
-| ![History](screenshots/history.jpg) | ![Settings](screenshots/settings.jpg) |
+<img src="screenshots/history.jpg" width="250" alt="History"> <img src="screenshots/settings.jpg" width="250" alt="Settings">
+
+*Home Screen • Clean Screen • Presets • History • Settings*
 
 </div>
 
